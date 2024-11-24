@@ -1,0 +1,22 @@
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 50.47130591944843
+Pixel-wise Mean Squared Error for ESRGAN/models/interp_10.000000.pth: 116.04086303710938
+
+Pixel-wise Mean Squared Error for net_g_200000 : 26.918274404700547
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 29.648709265367835
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : nan
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : nan
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : nan
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : nan
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 11.823120481481482
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 11.408743814814814
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.118291630357075
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.118291630357075
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.118291630357075
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.118291630357075
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.118291630357075
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.22479955764044
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 6.8362348284040175
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 6.96646713014633
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 6.962382313561819
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.3277046470036575
+Pixel-wise Mean Squared Error for RealESRGAN_x4plus : 7.400216295828228
