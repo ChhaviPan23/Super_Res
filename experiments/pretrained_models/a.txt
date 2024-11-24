@@ -1,1 +1,1 @@
-All the weight containing .pth file will be avaialable at - 
+All the weight containing .pth file will be avaialable at - https://drive.google.com/drive/folders/1uJSU6sbEn5Qvk0fZW26583Ug3soqxhMQ?usp=sharing
